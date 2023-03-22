@@ -60,7 +60,7 @@ id:
         -2: kedua sampai terakhir
       ordinal: '%{number}%{ordinal}'
       ordinals:
-        default: 
+        default:
     on_weekends: pada akhir pekan
     on_weekdays: pada hari kerja
     days_on:
@@ -87,48 +87,3 @@ id:
         until: '%{rest} %{current}'
         count: '%{rest} %{current}'
         default: '%{rest} %{current}'
-  date:
-    abbr_day_names:
-    - Min
-    - Sen
-    - Sel
-    - Rab
-    - Kam
-    - Jum
-    - Sab
-    abbr_month_names:
-    -
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - Mei
-    - Jun
-    - Jul
-    - Agu
-    - Sep
-    - Okt
-    - Nov
-    - Des
-    day_names:
-    - Minggu
-    - Senin
-    - Selasa
-    - Rabu
-    - Kamis
-    - Jumat
-    - Sabtu
-    month_names:
-    -
-    - Januari
-    - Februari
-    - Maret
-    - April
-    - Mei
-    - Juni
-    - Juli
-    - Agustus
-    - September
-    - Oktober
-    - November
-    - Desember
